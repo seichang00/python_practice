@@ -12,3 +12,5 @@ Print:
 
 Type of Sort used in Python sorted() -> timsort
 - binary insertion + mergesort
+
+#The star is the only comment, the triple quote is treated as a string
